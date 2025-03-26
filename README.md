@@ -62,9 +62,3 @@ I'm a Computer Science undergraduate with a passion for building scalable web ap
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRanjan2003&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<!-- Contact -->
-## 📫 Get in Touch
-
-- **Email**: [yashranjan2003@gmail.com](mailto:yashranjan2003@gmail.com)
-- **LinkedIn**: [Yash Ranjan](https://www.linkedin.com/in/yashranjan2003/)
-- **LeetCode**: [YashRanjan2003](https://leetcode.com/YashRanjan2003/)
