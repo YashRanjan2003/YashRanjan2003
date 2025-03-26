@@ -7,9 +7,8 @@
 <!-- About Me -->
 ## About Me
 
-I'm a Computer Science undergraduate at **SRM Institute of Science and Technology** with a passion for building scalable web applications and exploring machine learning. I have hands-on experience in full-stack development and have contributed to various open-source projects. 
+I'm a Computer Science undergraduate with a passion for building scalable web applications and exploring machine learning. I have hands-on experience in full-stack development and have contributed to various open-source projects. 
 
-- 🎓 Pursuing a B.Tech in Computer Science and Engineering (CGPA: 8.26/10)
 - 💻 Specializing in **Next.js, React, Node.js, Python, and FastAPI**
 - 🌐 Enthusiastic about **API Integration**, **Data Processing**, and **UI/UX Design**
 
@@ -54,37 +53,6 @@ I'm a Computer Science undergraduate at **SRM Institute of Science and Technolog
   - Flask backend paired with a responsive JavaScript frontend.
   - Optimized database queries that reduce page load times.
 
-<!-- Experience -->
-## 💼 Experience
-
-- **SRM Hotel** *(Feb 2025 - Present)*  
-  **Web Development Intern**  
-  Developed a responsive hotel management application using Next.js, Postgres, and Prisma ORM, featuring a real-time booking system with secure payment gateway integration.
-
-- **Vendhar Museum (SRMIST)** *(Oct 2024 - Jan 2025)*  
-  **Web Developer**  
-  Engineered and deployed a production-ready website with dynamic CMS and achieved a 98% PageSpeed score.
-
-- **Tender Heart NGO** *(Jun 2024 - Jul 2024)*  
-  **Web Development Intern**  
-  Revamped the organization’s website with modern UI/UX, integrating Razorpay for secure donations.
-
-- **EduSkills & Edunet Foundation** *(2023 - 2024)*  
-  **AI-ML Intern**  
-  Developed ML models for image classification, product search, and mood analysis, and built user dashboards for personalized recommendations.
-
-<!-- Certifications & Achievements -->
-## 🎖 Certifications & Achievements
-
-- **Oracle Cloud Infrastructure 2024 Foundations Associate**
-- **AWS Academy Machine Learning Foundations**
-- **Web Development & Coding Specialization** (University of Michigan)
-- **CISCO Networking Basics**
-
-- **Competitive Programming**: 200+ LeetCode problems, 4 Gold badges on Hackerrank.
-- **Open Source**: 609 GitHub contributions in 2024, active in multiple projects.
-- **Hackathons**: Participated in 7+ hackathons, leading to impactful internships.
-- **IEEE Student Member**
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
